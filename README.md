@@ -140,10 +140,40 @@ output/
 - Cloud Storage
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+The main interface of the AI Photo Editing application, allowing users to upload an image and choose enhancement options.
+
+---
+
+### 🖼️ Input Image
+
+![Input Image](screenshots/input.png)
+
+Displays the original image uploaded by the user before AI-based enhancement.
+
+---
+
+### ✨ Enhanced Output
+
+![Enhanced Output](screenshots/output.png)
+
+Shows the enhanced image after applying AI-based super-resolution, brightness, contrast, saturation, and sharpness adjustments.
+
+---
+
+### 🎨 Image Editing Features
+
+
+Demonstrates the available image editing features such as cropping, rotating, filters, brightness, contrast, saturation, sharpness, and AI enhancement.
 
 ## Contributors
 
-- Your Friend's Name
+- me
 
 ---
 
